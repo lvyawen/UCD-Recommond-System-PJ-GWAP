@@ -10,8 +10,8 @@
 
 ## Ideas ? just brainstorm all the ideas here.
 1.
-2
-3...
+2.
+3. blablabla
 
 ## Group Meetings
 * Week 2- Form up our group and use github as version control within the group.
