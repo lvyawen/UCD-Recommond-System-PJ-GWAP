@@ -9,7 +9,7 @@
 
 
 ## Ideas ? just brainstorm all the ideas here.
-1.
+1. Eternal Puzzle ? Online game with multiplayers who can join the game at any time. Once this trial failed, open another one.
 2.
 3. blablabla
 
