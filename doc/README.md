@@ -10,7 +10,7 @@
 
 ## Ideas ? just brainstorm all the ideas here.
 1. Eternal Puzzle ? Online game with multiplayers who can join the game at any time. Once this trial failed, open another one.
-2.
+2. 我还是用中文了，利用群众的力量和智慧来预测短期会发生的事情。
 3. blablabla
 
 ## Group Meetings
